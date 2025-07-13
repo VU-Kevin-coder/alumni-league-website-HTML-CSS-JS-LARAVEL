@@ -91,10 +91,10 @@ Start Apache and visit http://localhost/alumni-league-website-HTML-CSS-JS-LARAVE
 Kevin
 Software Engineer
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##🔮 Planned Enhancements
+## 🔮 Planned Enhancements
 Migrate to Laravel for routing, controllers, and DB
 
 Role-based authentication (Admin, Coach, Referee, Fan)
