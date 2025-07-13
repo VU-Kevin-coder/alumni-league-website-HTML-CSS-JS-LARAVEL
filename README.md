@@ -1,9 +1,12 @@
 # Alumni League Website
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+![PHP Version](https://img.shields.io/badge/php-8.1%2B-blue)
+[![Contributors](https://img.shields.io/github/contributors/VU-Kevin-coder/alumni-league-website-HTML-CSS-JS-LARAVEL)](https://github.com/VU-Kevin-coder/alumni-league-website-HTML-CSS-JS-LARAVEL/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/VU-Kevin-coder/alumni-league-website-HTML-CSS-JS-LARAVEL)](https://github.com/VU-Kevin-coder/alumni-league-website-HTML-CSS-JS-LARAVEL/commits)
+[![Repo Stars](https://img.shields.io/github/stars/VU-Kevin-coder/alumni-league-website-HTML-CSS-JS-LARAVEL?style=social)](https://github.com/VU-Kevin-coder/alumni-league-website-HTML-CSS-JS-LARAVEL/stargazers)
 
-A feature-rich web platform for managing an alumni football league. This system includes team and player management, fixtures, results, voting, media uploads, blog articles, and an admin dashboard — all built with PHP, Bootstrap, and modern front-end technologies.
-
+A modern alumni football league management platform built with PHP, HTML, CSS, JS, and Laravel. It includes full league management features like team listings, match fixtures, voting, blog updates, media uploads, and an admin dashboard.
 ---
 
 ## 🗂️ Folder Structure
