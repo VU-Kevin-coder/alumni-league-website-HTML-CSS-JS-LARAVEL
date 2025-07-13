@@ -1,4 +1,5 @@
 # Alumni League Website
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 A feature-rich web platform for managing an alumni football league. This system includes team and player management, fixtures, results, voting, media uploads, blog articles, and an admin dashboard — all built with PHP, Bootstrap, and modern front-end technologies.
 
